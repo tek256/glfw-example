@@ -1,5 +1,4 @@
 #version 330
-
 layout(location = 0) in vec4 in_vert;
 
 uniform mat4 proj;
